@@ -1,0 +1,27 @@
+.category-styles {
+    background-color: rgb(223, 91, 25);
+    padding: 20px;
+    border-radius: 10px;
+    position: sticky;
+    top: 10%;
+    margin-left: -150px;
+}
+
+.category-styles a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.category-styles a:hover {
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    transition: .3s ease-in;
+}
+
+@media screen and (max-width: "580px") {
+    .category-styles {
+        margin: auto;
+    }
+}

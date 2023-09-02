@@ -1,0 +1,15 @@
+.right-container{
+    background-color: rgb(248, 252, 253);
+    padding: 20px;
+    border-radius: 10px;
+    position: sticky;
+    top: 10%;
+}
+.list .items{
+    cursor: pointer;
+}
+.list .items:hover{
+    background-color: tomato;
+    color: white;
+    transition: .3s ease-in-out;
+}

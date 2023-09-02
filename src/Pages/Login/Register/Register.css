@@ -1,0 +1,10 @@
+Form{
+    background-image: linear-gradient( rgb(6, 107, 146), rgba(60, 167, 39, 0.951));
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+Form.Group .buton{
+    /* color: black; */
+    background-color: red;
+}
